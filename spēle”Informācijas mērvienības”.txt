@@ -1,10 +1,7 @@
 ﻿7 spēle”Informācijas mērvienības”
 Madara Liepiņa; Estere Apfelberga
 
-
 Kas ir biti?
-
-
 Bits ir mazākā informācijas daudzuma mērvienība, tas atbilst vienam ciparam binārajā skaitīšanas sistēmā. Saīsinātā veidā bitu parasti apzīmē ar mazo b. Bita vērtība var būt vai nu "0" vai "1". Astoņi biti veido vienu baitu.
 
 
@@ -22,10 +19,6 @@ Megabaits ir informācijas mērvienība, tas atbilst 1 000 000 baitiem informāc
 
 Kas ir gigabaits?
 Gigabaits ir ciparu informācijas vienības baita daudzkārtnis. Viens gigabaits ir viens miljards baitu. Gigabaita vienības simbols ir GB. Gigabaiti tiek izmantoti inženierzinātņu , uzņēmējdarbības un daudzās skaitļošanas jomās, tostarp cieto disku , cietvielu disku un lentu uzglabāšanas ietilpībā , kā arī datu pārraides ātrumos. Gigabaits tiek izmantots arī dažās datorzinātņu un informācijas tehnoloģiju jomās
-
-
-
-
 
 
 Kas ir petabaits?
